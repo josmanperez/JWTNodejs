@@ -1,0 +1,15 @@
+{
+  "name": "jwttoken",
+  "version": "1.0.0",
+  "description": "Project for creating/validating JWT token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josman Pérez",
+  "license": "ISC",
+  "dependencies": {
+    "njwt": "^1.0.0",
+    "secure-random": "^1.1.2"
+  }
+}
