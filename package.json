@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "njwt": "^1.0.0",
+    "realm": "^12.11.1",
     "secure-random": "^1.1.2"
   }
 }
